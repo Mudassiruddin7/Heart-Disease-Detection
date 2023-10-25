@@ -150,4 +150,3 @@ https://www.linkedin.com/in/mudassiruddin21/
 # _**Yes, you now have more knowledge than yesterday, Keep Going.**_
 ![Happy](https://media1.tenor.com/images/097e8649aeff1e44465d1baa6747cddb/tenor.gif?itemid=5706107)
   
-# Heart-Disease-Detection
